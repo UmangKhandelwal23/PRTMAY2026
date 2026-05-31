@@ -8,7 +8,7 @@ pipeline {
 
         DOCKERHUB_CREDENTIALS = credentials('docker')
 
-        IMAGE_NAME = "umangkhandelwal/aprilsprt2026:v1"
+        IMAGE_NAME = "umangkhandelwal/aprilsprt2026:v2"
     }
 
     stages {
